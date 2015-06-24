@@ -1,0 +1,19 @@
+#!/usr/bin/bash
+
+brew update
+brew upgrade
+
+brew install git
+
+brew install macvim
+
+brew install maven
+brew install play
+
+brew install erlang
+
+brew install scala
+brew install sbt
+
+brew install redis
+brew install postgresql
